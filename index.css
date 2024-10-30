@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(231, 241, 217);
+    width: 100%;
+    height: 100vh;
+    font-family: "Audiowide", sans-serif;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5rem;
+
+    h1 {
+        font-size: 3.7rem;
+        padding: 1rem;
+        background-color: rgb(183, 232, 98);
+        box-shadow: 4px 4px 2px 2px rgba(0, 0, 0, 0.3);
+        color: red;
+    }
+
+    #keycode {
+        font-size: 3.3rem;
+        padding: 1.5rem 2rem;
+        background-color: rgb(183, 232, 98);
+        box-shadow: 4px 4px 2px 2px rgba(0, 0, 0, 0.3);
+        color: red;
+    }
+}
