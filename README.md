@@ -24,6 +24,7 @@ This is a Keyboard Keycode Generator project built with HTML, CSS, and JavaScrip
               git clone https://github.com/yourusername/keyboard-keycode-generator.git
 
 **2.** Open index.html in your browser.
+
 **3.** Press any key on your keyboard, and the app will display the key's name and code!
 
 
